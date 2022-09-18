@@ -33,6 +33,7 @@ public class OrtalamaHesaplama {
         boolean sonuc= ortalama >=60;
         String str =sonuc ? "Geçtiniz" : "Tekrar Deneyiz :)";
         System.out.println(str);
+        //gitdeneme!!!!!!
 
 
 
