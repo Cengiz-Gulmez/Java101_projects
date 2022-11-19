@@ -21,7 +21,6 @@ public class KullanıcıAdı {
             }
         if (value==1){
             System.out.println("yeni şifrenizi giriniz");
-
             newpassword= input.nextLine();
             if (newpassword.equals(password) || newpassword.equals("java123")){
                 System.out.println("hatalı seçim");
